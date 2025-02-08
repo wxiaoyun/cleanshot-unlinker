@@ -1,13 +1,13 @@
 {
   "name": "cleanshot-unlinker",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "CLI tool to unlink Cleanshot devices from a license",
   "type": "module",
   "bin": {
-    "cleanshot-unlinker": "bin/cli.js"
+    "cleanshot-unlinker": "npm/bin/cli.cjs"
   },
   "files": [
-    "bin/cli.js",
+    "npm/bin/cli.cjs",
     "README.md",
     "LICENSE"
   ],
